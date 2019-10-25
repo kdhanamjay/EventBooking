@@ -1,2 +1,45 @@
 # EventBooking
------User Module----- 1. A user should be able to see all the posted event. 2. Should able to sort the event by location, event type, date. 3. Should able to book the add the ticket in the cart and proceed to pay and book the ticket. 4. Should able to see the all the active booking(Upcoming events) and completed booking(past events)
+
+Projetc name : Event booking
+
+Database name: epiz_24682772_ems
+
+Credentials for database i used
+
+server: sql311.epizy.com
+
+database name: epiz_24682772_ems
+
+user:epiz_24682772
+
+password: Juxm39oQN9QEo
+
+
+
+Steps to run project
+
+Already hosted in online 
+
+for user login
+
+you can open http://eventbooking.epizy.com/
+
+User login:   dhanamjay
+password:	Gandhi123
+
+
+
+For organizer or admin login 
+
+http://eventbooking.epizy.com/admin.php
+
+Admin login:  admin
+password: 	Test@12345
+
+
+________________________________________________________________________
+For more: 
+
+K.Dhanamjay 
+9963958647
+http://kanipakamdhanamjay.webnode.com
